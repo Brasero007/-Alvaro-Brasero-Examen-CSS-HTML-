@@ -1,0 +1,14 @@
+.portada{
+    width: 1800px;
+    height: 100px;
+    background-color: chartreuse;
+    text-align: center;
+    position: relative;
+    right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(white 0%, green 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
